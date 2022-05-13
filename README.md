@@ -1,4 +1,4 @@
-# Connecting to MySQL in PHP
+# deploying simple patient management app by Connecting to MySQL in PHP
 
 Create a Simple Database App: Connecting to MySQL with PHP
 
