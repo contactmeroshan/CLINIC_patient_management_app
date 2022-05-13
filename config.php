@@ -5,8 +5,8 @@
  *
  */
 
-$host       = "localhost";
-$username   = "roshanadmin";
+$host       = "roshanadmin305.mysql.database.azure.com";
+$username   = "roshanadmin@roshanadmin305";
 $password   = "password@1234";
 $dbname     = "test";
 $dsn        = "mysql:host=$host;dbname=$dbname";
